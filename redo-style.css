@@ -3,6 +3,11 @@
   font-family: monospace;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+
 
 /* header */
 
@@ -60,7 +65,6 @@
 
 
 .big-text-container{
-  background-color: gray;
   height: fit-content;
   width: fit-content;
 }
@@ -133,5 +137,6 @@ p1::after {
 }
 
 .text-container {
-  padding-top: 30%;
+  background-color: yellow;
+
 }
